@@ -101,7 +101,7 @@ const toSchemaObject = definition => {
 
   return {
     title: definition.name.value,
-    type: 'object',
+    type: (definition.kind === 'InputObjectTypeDefinition') ? 'input_object' : 'object',
     properties,
     required
   }
