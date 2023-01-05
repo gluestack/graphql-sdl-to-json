@@ -1,0 +1,23 @@
+{
+  "name": "@gluestack/graphql-sdl-to-json",
+  "version": "0.0.1",
+  "description": "Converts GraphQL Schema Definition to JSONSchema",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gluestack/graphql-sdl-to-json"
+  },
+  "keywords": [
+    "graphql",
+    "json-schema"
+  ],
+  "author": "Faiz A. Faroqui <faiz@geekyants.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gluestack/graphql-sdl-to-json/issues"
+  },
+  "homepage": "https://github.com/gluestack/graphql-sdl-to-json#readme",
+  "dependencies": {
+    "graphql": "^0.10.1"
+  }
+}
