@@ -4,7 +4,7 @@
  * @type       {<type>}
  */
 const PRIMITIVES = {
-  Int: 'integer',
+  Int: 'int',
   Float: 'number',
   String: 'string',
   Boolean: 'boolean',
