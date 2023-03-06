@@ -14,7 +14,7 @@ export const parameters = {
       method: 'alphabetical',
       order: [
         'Graphql SDL to JSON',
-        ['Getting Started', 'Requirements', 'How to Install'],
+        ['Getting Started', 'Requirements'],
       ]
     },
   },
